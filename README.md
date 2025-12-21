@@ -1,6 +1,8 @@
 # Dot Pictures Studio 🎨🖼️
 
 Developed a fully responsive web application for my arts and graphic business that helps me showcase and manage my work online, built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
+
+
 [![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -51,3 +53,4 @@ This project uses the following technologies:
 - **Vite** – Fast development and build tooling
 - **Tailwind CSS** – Utility-first styling
 - **Flowbite-React** – UI component library
+
