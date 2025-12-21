@@ -1,7 +1,5 @@
 # Dot Pictures Studio 🎨🖼️
 
-Developed a fully responsive web application for my arts and graphic business that helps me showcase and manage my work online, built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
-
 
 [![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -16,7 +14,9 @@ Developed a fully responsive web application for my arts and graphic business th
 </p>
 ## 📌 Overview
 
-Dot Pictures Studio is a full-featured front-end web project designed to present visual content beautifully and interactively. It serves as a **creative portfolio website**, ideal for photographers, designers, and studios to display their work.
+
+Developed a fully responsive web application for my arts and graphic business that helps me showcase and manage my work online, built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
+
 
 This project demonstrates skills in:
 - Responsive web design  
@@ -61,5 +61,6 @@ This project uses the following technologies:
 - **Vite** – Fast development and build tooling
 - **Tailwind CSS** – Utility-first styling
 - **Flowbite-React** – UI component library
+
 
 
