@@ -29,8 +29,16 @@ This project demonstrates skills in:
 ## 🚀 Live Demo
 
 You can visit the live deployed version here:  
-👉 *(add your live URL if available — e.g., GitHub Pages or Netlify)*
+(https://nahianfariha.github.io/dotpicturesstudio/)
 
+You can deploy this project using services like:
+
+Netlify
+Vercel
+GitHub Pages
+Firebase Hosting
+
+Just make sure to point to the production build in the dist/ folder.
 ---
 
 ## 💡 Features
@@ -53,4 +61,5 @@ This project uses the following technologies:
 - **Vite** – Fast development and build tooling
 - **Tailwind CSS** – Utility-first styling
 - **Flowbite-React** – UI component library
+
 
